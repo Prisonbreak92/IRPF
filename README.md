@@ -1,10 +1,3 @@
-██████╗ ██████╗ ███████╗███████╗
-██╔══██╗██╔══██╗██╔════╝██╔════╝
-██████╔╝██████╔╝█████╗  ███████╗
-██╔══██╗██╔══██╗██╔══╝  ╚════██║
-██║  ██║██║  ██║███████╗███████║
-╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝
-    INTERFACE  RPF FRAMEWORK
 
 # IRPF – Interface RPF
 A modular, extensible IDE and framework for RPF-based Rockstar games.  
