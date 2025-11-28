@@ -1,11 +1,11 @@
- _______________________ 
-|_   _| ___ \ ___ \  ___|
-  | | | |_/ / |_/ / |_   
-  | | |    /|  __/|  _|  
- _| |_| |\ \| |   | |    
- \___/\_| \_\_|   \_|    
-                         
-                                                    
+██████╗ ██████╗ ███████╗███████╗
+██╔══██╗██╔══██╗██╔════╝██╔════╝
+██████╔╝██████╔╝█████╗  ███████╗
+██╔══██╗██╔══██╗██╔══╝  ╚════██║
+██║  ██║██║  ██║███████╗███████║
+╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝
+    INTERFACE  RPF FRAMEWORK
+
 # IRPF – Interface RPF
 A modular, extensible IDE and framework for RPF-based Rockstar games.  
 Designed for DLC building, asset management, metadata editing, merge automation, and long-term cross-game modding.
