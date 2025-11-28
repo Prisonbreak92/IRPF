@@ -4,7 +4,7 @@ Built with C#, powered by CodeWalker.API, and designed for long-term cross-game 
 
 ---
 
-## 🚀 What is IRPF?
+## What is IRPF?
 IRPF provides a unified toolchain for:
 
 - RPF extraction, browsing, and repacking  
@@ -18,7 +18,7 @@ IRPF is meant to evolve alongside Rockstar titles, becoming a long-term foundati
 
 ---
 
-## 📚 Documentation
+## Documentation
 - [Getting Started](getting-started.md)  
 - [Architecture](architecture.md)  
 - [Backend System](backend.md)  
