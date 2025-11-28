@@ -1,24 +1,67 @@
-BSD 2-Clause License
+IRPF Modding Framework License (IMFL)
 
-Copyright (c) 2025, Prisonbreak92
+Version 1.1 — 2025
+Copyright © 2025 Prisonbreak92
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the “Software”), to use, copy,
+modify, merge, publish, distribute, sublicense, and/or sell copies of the
+Software, subject to the following conditions:
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
+1. SINGLE-PLAYER USE ONLY
 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
+This Software is intended exclusively for single-player modding.
+You may not use the Software, nor any modified or forked version of it, to alter,
+modify, influence, or otherwise interact with Grand Theft Auto Online or any
+other online multiplayer mode in any Rockstar Games title.
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+2. NO CHEATING OR ANTICHEAT CIRCUMVENTION
+
+You may not use the Software to create, modify, distribute, or assist in the
+creation of cheats, hacks, exploits, or tools intended to bypass anti-cheat
+systems, DRM, or security mechanisms in any online multiplayer environment.
+
+3. NO DISTRIBUTION OF ROCKSTAR GAME ASSETS
+
+This Software may not be distributed with any Rockstar Games assets, including
+but not limited to: models, textures, audio, scripts, maps, animations, or any
+other proprietary content.
+Users must legally own the game content they modify.
+
+4. NO ENCRYPTION OR DRM BREAKING
+
+You may not use the Software to decrypt, extract, or access encrypted or
+DRM-protected game data, including but not limited to console versions of
+Rockstar Games titles.
+
+5. USER RESPONSIBILITY
+
+You acknowledge that using modified files in online modes is prohibited by
+Rockstar Games.
+You agree that you, the user, are solely responsible for any consequences arising
+from the use of game modifications, and that the authors and contributors of this
+Software are not liable for misuse or resulting damages.
+
+6. FORK AND REDISTRIBUTION RULES
+
+Any redistributed, modified, or forked version of the Software must:
+
+(a) Include this license in full; and
+(b) Display the following notice prominently:
+
+“IRPF is for single-player use only. Do not use mods online.”
+
+7. NO AFFILIATION
+
+This Software is not affiliated with, endorsed by, or sponsored by Rockstar
+Games, Take-Two Interactive, or any of their subsidiaries.
+
+8. WARRANTY DISCLAIMER
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+OR OTHER DEALINGS IN THE SOFTWARE.
