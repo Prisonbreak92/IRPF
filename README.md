@@ -1,28 +1,11 @@
-                                                                        
-                                                                        
-IIIIIIIIIIRRRRRRRRRRRRRRRRR   PPPPPPPPPPPPPPPPP   FFFFFFFFFFFFFFFFFFFFFF
-I::::::::IR::::::::::::::::R  P::::::::::::::::P  F::::::::::::::::::::F
-I::::::::IR::::::RRRRRR:::::R P::::::PPPPPP:::::P F::::::::::::::::::::F
-II::::::IIRR:::::R     R:::::RPP:::::P     P:::::PFF::::::FFFFFFFFF::::F
-  I::::I    R::::R     R:::::R  P::::P     P:::::P  F:::::F       FFFFFF
-  I::::I    R::::R     R:::::R  P::::P     P:::::P  F:::::F             
-  I::::I    R::::RRRRRR:::::R   P::::PPPPPP:::::P   F::::::FFFFFFFFFF   
-  I::::I    R:::::::::::::RR    P:::::::::::::PP    F:::::::::::::::F   
-  I::::I    R::::RRRRRR:::::R   P::::PPPPPPPPP      F:::::::::::::::F   
-  I::::I    R::::R     R:::::R  P::::P              F::::::FFFFFFFFFF   
-  I::::I    R::::R     R:::::R  P::::P              F:::::F             
-  I::::I    R::::R     R:::::R  P::::P              F:::::F             
-II::::::IIRR:::::R     R:::::RPP::::::PP          FF:::::::FF           
-I::::::::IR::::::R     R:::::RP::::::::P          F::::::::FF           
-I::::::::IR::::::R     R:::::RP::::::::P          F::::::::FF           
-IIIIIIIIIIRRRRRRRR     RRRRRRRPPPPPPPPPP          FFFFFFFFFFF           
-                                                                        
-                                                                        
-                                                                        
-                                                                        
-                                                                        
-                                                                        
-                                                                                           
+ _______________________ 
+|_   _| ___ \ ___ \  ___|
+  | | | |_/ / |_/ / |_   
+  | | |    /|  __/|  _|  
+ _| |_| |\ \| |   | |    
+ \___/\_| \_\_|   \_|    
+                         
+                                                    
 # IRPF – Interface RPF
 A modular, extensible IDE and framework for RPF-based Rockstar games.  
 Designed for DLC building, asset management, metadata editing, merge automation, and long-term cross-game modding.
