@@ -1,4 +1,4 @@
-# IRPF – Integrated RPF Framework
+# IRPF – Interface RPF
 A modular, extensible IDE and framework for RPF-based Rockstar games.  
 Designed for DLC building, asset management, metadata editing, merge automation, and long-term cross-game modding.
 
