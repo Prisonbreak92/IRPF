@@ -18,3 +18,5 @@ Currently working on RPF3 implementation.
 Note -
 TOC metadata does not appear in RPF0 archives, will stay read-only.
 
+I HIGHLY appreciate any contribution to this project. Feel free to dm me any time (dc : prisonbreak92 )
+
