@@ -16,5 +16,5 @@ Currently working on RPF3 implementation.
 -
 
 Note -
-TOC does not appear in RPF0 archives, will stay read-only.
+TOC metadata does not appear in RPF0 archives, will stay read-only.
 
