@@ -9,6 +9,7 @@ Designed for DLC building, asset management, metadata editing, merge automation,
 ![Status: In Development](https://img.shields.io/badge/status-in--development-yellow)
 
 References -
-https://github.com/indilo53/gta-toolkit
 https://github.com/flobros/CodeWalker.API
 https://github.com/dexyfex/CodeWalker
+
+Currently working on RPF0 implementation. 
