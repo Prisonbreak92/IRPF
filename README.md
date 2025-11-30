@@ -12,11 +12,12 @@ References -
 https://github.com/flobros/CodeWalker.API
 https://github.com/dexyfex/CodeWalker
 
-Currently working on RPF3 implementation. 
+Currently working on RPF2 / RPF3 implementation. 
 -
 
-Note -
-TOC metadata does not appear in RPF0 archives, will stay read-only.
+
+
+
 
 I HIGHLY appreciate any contribution to this project. Feel free to dm me any time (dc : prisonbreak92 )
 
